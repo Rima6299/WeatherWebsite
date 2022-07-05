@@ -1,0 +1,20 @@
+{
+  "name": "npm69",
+  "version": "1.0.0",
+  "description": "this is best",
+  "main": "npm69.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "woww"
+  ],
+  "author": "rima",
+  "license": "ISC",
+  "dependencies": {
+    "slugify": "^1.6.5" // 1=major version,6:minor version,5:batch/bug fixes
+    //jodi 1.0.0 te bug a6e .tkhn bug fix kore 1.0.1 toiri hobe.jodi 1ta fn add or delete krte hoi 
+    //tkhn 1.1.0..jkhn onk fn delete or add krbo tkhn 2.0.0
+    //nodemon=server k automatically restart krar fnality dei
+  }
+}
